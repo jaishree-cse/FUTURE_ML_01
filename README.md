@@ -34,3 +34,7 @@ A scrollable interactive dashboard displaying sales trends and predictions.
 
 ### Dashboard View 2
 ![Dashboard 2](screenshots/dashboard_2.png)
+
+## Result
+The model successfully predicts future sales trends with good accuracy and  
+the dashboard visualizes insights clearly for business decision-making.
