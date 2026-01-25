@@ -1,0 +1,39 @@
+OrderDate,Sales,Quantity,Category,State
+2023-01-01,28000,120,Technology,California
+2023-02-01,26500,115,Furniture,Texas
+2023-03-01,29000,130,Office Supplies,Florida
+2023-04-01,31000,138,Technology,New York
+2023-05-01,29500,132,Furniture,California
+2023-06-01,33000,145,Office Supplies,Texas
+2023-07-01,36000,155,Technology,Florida
+2023-08-01,35500,150,Furniture,New York
+2023-09-01,34000,142,Office Supplies,California
+2023-10-01,38000,160,Technology,Texas
+2023-11-01,37000,158,Furniture,Florida
+2023-12-01,42000,175,Office Supplies,New York
+
+2024-01-01,39000,165,Technology,California
+2024-02-01,36000,150,Furniture,Texas
+2024-03-01,41000,170,Office Supplies,Florida
+2024-04-01,45000,185,Technology,New York
+2024-05-01,43000,180,Furniture,California
+2024-06-01,47000,195,Office Supplies,Texas
+2024-07-01,52000,215,Technology,Florida
+2024-08-01,50000,205,Furniture,New York
+2024-09-01,48000,198,Office Supplies,California
+2024-10-01,55000,225,Technology,Texas
+2024-11-01,53000,220,Furniture,Florida
+2024-12-01,60000,250,Office Supplies,New York
+
+2025-01-01,57000,240,Technology,California
+2025-02-01,52000,215,Furniture,Texas
+2025-03-01,59000,245,Office Supplies,Florida
+2025-04-01,63000,265,Technology,New York
+2025-05-01,61000,255,Furniture,California
+2025-06-01,67000,280,Office Supplies,Texas
+2025-07-01,72000,300,Technology,Florida
+2025-08-01,70000,295,Furniture,New York
+2025-09-01,68000,285,Office Supplies,California
+2025-10-01,75000,315,Technology,Texas
+2025-11-01,73000,305,Furniture,Florida
+2025-12-01,82000,340,Office Supplies,New York
