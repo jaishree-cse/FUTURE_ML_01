@@ -127,6 +127,19 @@ allows users to:
 
 ![Dashboard 2](screenshots/dashboard_2.png)
 
+### Dashboard View 3
+
+![Dashboard 2](screenshots/dashboard_3.png)
+
+### Dashboard View 4
+
+![Dashboard 2](screenshots/dashboard_4.png)
+
+### Dashboard View 5
+
+![Dashboard 2](screenshots/dashboard_5.png)
+
+
 ------------------------------------------------------------------------
 
 # Result
